@@ -389,4 +389,4 @@ These are in the officially-reserved 555-01XX fictional-use range.
 ## Author
 
 **SYED WASIF ALI**
-<syedwasifali2136@gmail.com>
+syedwasifali2136@gmail.com
